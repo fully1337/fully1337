@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is John and I'm a HTML & CSS starter from Brazil</h2>
+<h2 align="left">saborizado do boftz
 
 ###
 
